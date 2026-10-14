@@ -1,0 +1,6 @@
+tính khoảng cách từ điểm A có toạ độ (x,y) 
+và toạ độ O(0,0) 
+Input: dòng đầu là bộ test 
+mỗi bộ test gồm 2 số thực x,y của điểm A 
+Output: 
+khoảng cách từ A đến O gồm 2 chữ số thập phân 

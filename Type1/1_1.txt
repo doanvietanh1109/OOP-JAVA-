@@ -1,0 +1,18 @@
+đề bài 1_1: 
+khai báo lớp point x và y: 
+tính khoảng cáhc 
+chuyển đối tượng về dạng xâu ký tự bằng ghi đè phương thức toString() 
+
+viết chương trình nhập hai điểm p1 và p2 
+tính khoảng cách 2 điểm đó
+ 
+
+
+Input: 
+dòng đầu ghi số test 
+mỗi bộ test gồm 2 toạ độ a và b
+giá trị tuyệt đối không quá 1000 
+
+Output: 
+Tính khoảng cách giữa 2 điểm 
+với 4 chữ số thập phân 

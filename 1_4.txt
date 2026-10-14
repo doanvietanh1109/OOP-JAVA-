@@ -1,0 +1,2 @@
+tính khoảng cách từ điểm A --> B --> C
+S = AB + BC 

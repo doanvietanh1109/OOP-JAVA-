@@ -1,0 +1,14 @@
+tính khoảng cách từ nhà đến trường 
+ngôi nhà và trường học xác định bằng hai toạ độ (x,y) 
+Xây dựng lớp location để tính khoảng cách từ nhà đến trường 
+Yêu cầu lớp location: 
+private double x,y 
+Location(double x, double y)
+getX() 
+getY() 
+distance(Location other) 
+
+Input dòng đầu chứa bộ test 
+mỗi bộ test gồm xNha yNha xTruong yTruong
+
+Output: khoảng cách từ nhà đến trường với 2 chữ số thập phân 
